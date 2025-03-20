@@ -5,6 +5,13 @@ Quash is a lightweight custom shell written in C for EECS 678 (Operating Systems
 This project is meant to build familiarity with UNIX system calls, the process model, and command-line interfaces.
 
 ---
+## 📝 Authors
+
+Ellia Morse
+
+Dev Patel
+
+---
 
 ## 💾 Installation
 
